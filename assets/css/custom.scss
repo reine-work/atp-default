@@ -2,10 +2,14 @@ html, body {
     font-family: 'Inter', sans-serif;
 }
 
-/* .atp-widget {
-    .atp-widget-name {
-        padding-bottom: 6px;
-        border-bottom: solid 1px #eee;
-        margin-bottom: 6px;
+.atp-widget {
+    margin-bottom: 1rem;
+}
+
+.atp-page-header {
+    padding: 2rem;
+    background: #e6eef4;
+    h1 {
+        font-size: 1.5rem;
     }
-} */
+}
