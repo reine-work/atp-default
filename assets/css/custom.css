@@ -1,5 +1,13 @@
 html, body {
-  font-family: "Inter", sans-serif;
+  font-family: 'Manrope', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+p, small {
+  font-weight: 500;
 }
 
 .atp-widget {
@@ -8,8 +16,18 @@ html, body {
 
 .atp-page-header {
   padding: 2rem;
-  background: #e6eef4;
+  background: #f6f7f7;
 }
+
 .atp-page-header h1 {
   font-size: 1.5rem;
-}/*# sourceMappingURL=custom.css.map */
+}
+
+.menu-link, .menu-vertical .menu-item .menu-link {
+  font: 500 16px "Manrope";
+}
+
+.app-brand-logo img, .app-brand-logo svg {
+  width: 100%;
+  height: auto;
+}
