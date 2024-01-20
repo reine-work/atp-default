@@ -1,5 +1,5 @@
 html, body {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -24,7 +24,7 @@ p, small {
 }
 
 .menu-link, .menu-vertical .menu-item .menu-link {
-  font: 500 16px "Manrope";
+  font: 500 16px "Inter";
 }
 
 .app-brand-logo img, .app-brand-logo svg {
