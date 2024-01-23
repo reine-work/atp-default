@@ -93,7 +93,7 @@
   --bs-link-color: #194185;
   --bs-link-color-rgb: 105, 108, 255;
   --bs-link-decoration: none;
-  --bs-link-hover-color: #5f61e6;
+  --bs-link-hover-color: #758DB6;
   --bs-link-hover-color-rgb: 95, 97, 230;
   --bs-code-color: #e83e8c;
   --bs-highlight-color: #33414E;
@@ -7850,14 +7850,15 @@ label.btn {
 
 .btn-light {
   color: #344054;
-  background-color: #fcfdfd;
-  border-color: #fcfdfd;
-  box-shadow: 0 0.125rem 0.25rem 0 rgba(252, 253, 253, 0.4);
+  background-color: none;
+  border-color: none;
+  /* box-shadow: 0 0.125rem 0.25rem 0 rgba(252, 253, 253, 0.4); */
+  box-shadow: none;
 }
 .btn-light:hover {
   color: #344054 !important;
-  background-color: #fcfdfd !important;
-  border-color: #fcfdfd !important;
+  background-color: #F2F4F7 !important;
+  border-color: #F2F4F7 !important;
   transform: translateY(-1px) !important;
 }
 .btn-check:focus + .btn-light,
