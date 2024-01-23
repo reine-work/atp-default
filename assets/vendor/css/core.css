@@ -17134,7 +17134,7 @@ html:not(.layout-menu-fixed) .menu-inner-shadow {
   width: 100%;
   margin: 0 auto;
   border-radius: 0;
-  padding: 0 1.5rem;
+  padding: 0 1rem;
 }
 .layout-navbar.navbar-detached.container-xxl {
   max-width: calc(1440px - 1.625rem * 2);
