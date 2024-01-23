@@ -17132,7 +17132,7 @@ html:not(.layout-menu-fixed) .menu-inner-shadow {
 .layout-navbar.navbar-detached {
   /* width: calc(100% - 1.625rem * 2); */
   width: 100%;
-  margin: 0 auto;
+  margin: 0;
   border-radius: 0;
   padding: 0 1rem;
 }
