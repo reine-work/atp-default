@@ -40,3 +40,18 @@ p, small {
 .atp-notif-item {
   border-bottom: dashed 1px #ddd;
 }
+
+.atp-table-box {
+  border: solid 1px #eee;
+  border-radius: 0.438rem;
+}
+
+.atp-table-pagination {
+  border-top: solid 1px #eee;
+  padding-top: 1rem;
+}
+
+.atp-table-toolbar {
+  border-bottom: solid 1px #eee;
+  margin-bottom: 1rem;
+}
