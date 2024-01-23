@@ -127,7 +127,7 @@ a.bg-primary:hover, a.bg-primary:focus {
 }
 
 .bg-label-primary {
-  background-color: #e7e7ff !important;
+  background-color: #D1D9E7 !important;
   color: #194185 !important;
 }
 
@@ -186,8 +186,8 @@ button.list-group-item-primary.active {
 }
 
 .alert-primary {
-  background-color: #e7e7ff;
-  border-color: #d2d3ff;
+  background-color: #D1D9E7;
+  border-color: #194185;
   color: #194185;
 }
 .alert-primary .btn-close {
@@ -223,7 +223,7 @@ button.list-group-item-primary.active {
   color: #fff;
   background-color: #194185;
   border-color: #194185;
-  box-shadow: 0 0.125rem 0.25rem 0 rgba(105, 108, 255, 0.4);
+  box-shadow: none;
 }
 .btn-primary:hover {
   color: #fff !important;
@@ -262,7 +262,7 @@ button.list-group-item-primary.active {
   color: #fff !important;
   background-color: #16305e !important;
   border-color: #16305e !important;
-  box-shadow: 0 0.125rem 0.25rem 0 rgba(105, 108, 255, 0.4) !important;
+  box-shadow: none;
   transform: translateY(-1px) !important;
 }
 .btn-check:focus + .btn-outline-primary, .btn-outline-primary:focus {
@@ -791,7 +791,7 @@ html:not(.layout-menu-collapsed) .bg-menu-theme .menu-inner .menu-item .menu-lin
 }
 .bg-menu-theme .menu-sub > .menu-item.active > .menu-link:not(.menu-toggle):before {
   background-color: #194185 !important;
-  border: 3px solid #e7e7ff !important;
+  border: 3px solid #D1D9E7 !important;
 }
 
 .app-brand .layout-menu-toggle {
