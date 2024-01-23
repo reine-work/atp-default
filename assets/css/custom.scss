@@ -30,3 +30,13 @@ p, small {
     width: 100%;
     height: auto;
 }
+
+.atp-notif-list {
+    li:last-child {
+        border-bottom: none;
+    }
+}
+
+.atp-notif-item {
+    border-bottom: dashed 1px #ddd;
+}
