@@ -7850,15 +7850,15 @@ label.btn {
 
 .btn-light {
   color: #344054;
-  background-color: none;
-  border-color: none;
+  background-color: #F2F4F7;
+  border-color: #D0D5DD;
   /* box-shadow: 0 0.125rem 0.25rem 0 rgba(252, 253, 253, 0.4); */
   box-shadow: none;
 }
 .btn-light:hover {
   color: #344054 !important;
-  background-color: #F2F4F7 !important;
-  border-color: #F2F4F7 !important;
+  background-color: #E0E3E8 !important;
+  border-color: #D0D5DD !important;
   transform: translateY(-1px) !important;
 }
 .btn-check:focus + .btn-light,
