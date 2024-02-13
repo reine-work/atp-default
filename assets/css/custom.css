@@ -17,7 +17,9 @@ p, small {
 
 .atp-page-header {
   padding: 2rem;
-  background: #f6f7f7;
+  background: #ffffff;
+  border-bottom: solid 1px #eee;
+  border-top: solid 1px #eee;
 }
 
 .atp-page-header h1 {
